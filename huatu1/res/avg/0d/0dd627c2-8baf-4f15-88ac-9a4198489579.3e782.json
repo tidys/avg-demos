@@ -1,0 +1,109 @@
+[
+    {
+        "id": "b1189796-ed24-4b39-8498-41c8224a7844",
+        "templateID": null,
+        "name": "菜单",
+        "type": "ui-menu",
+        "lockPos": true,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "backBtnTexture": "80683f67-fb22-4b5f-a157-e86f58fe3518",
+        "style": "custom",
+        "bg": {
+            "name": "背景",
+            "texture": "60227ba7-0dee-404a-b56b-dede8ccaa26a",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "buttons": {
+            "normalTexture": "c373fd67-baf2-43c8-a9ae-fb606c45a4c4",
+            "pressTexture": "89550671-cc19-4117-854c-ec319787110c",
+            "position": {
+                "x": -410,
+                "y": -147,
+                "z": 0
+            },
+            "font": {
+                "size": 20,
+                "color": "#333333",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            },
+            "items": [
+                {
+                    "text": "保存",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "size": {
+                        "width": 155,
+                        "height": 44
+                    },
+                    "type": "Menu_Save"
+                },
+                {
+                    "text": "读取",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "size": {
+                        "width": 155,
+                        "height": 44
+                    },
+                    "type": "Menu_Read"
+                },
+                {
+                    "text": "设置",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "size": {
+                        "width": 155,
+                        "height": 44
+                    },
+                    "type": "Menu_Set"
+                },
+                {
+                    "text": "退出游戏",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "size": {
+                        "width": 155,
+                        "height": 44
+                    },
+                    "type": "Menu_Exit"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,936 @@
+{
+    "0f1edeac-5219-49d8-8560-52df8981f361": {
+        "elements.json": [
+            {
+                "id": "243d4e6c-d908-4384-9a19-d7217b56bcaf",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "12e93b55-c7be-4624-9e3d-77b5c8dc948e",
+                "templateID": "af53b257-1e4a-40ec-a1d2-312df89b1560",
+                "name": "视频-剧情-01",
+                "type": "video-plot",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "src": "3e5751e2-e6ef-4eb3-9e7d-4ae084810413",
+                "isRemote": false,
+                "time": 59.285333,
+                "resolutionRatio": {
+                    "width": 0,
+                    "height": 0
+                },
+                "displayMode": "fit"
+            }
+        ],
+        "animations.json": [
+            {
+                "action": {
+                    "delay": 0,
+                    "isFullPlay": true,
+                    "loop": false,
+                    "time": 59.285333,
+                    "type": "play",
+                    "volume": 100
+                },
+                "element": "12e93b55-c7be-4624-9e3d-77b5c8dc948e",
+                "id": "ef6d2391-0686-4239-925c-3471851eaf7c",
+                "moment": "afterPrevious"
+            }
+        ],
+        "timeline.json": [
+            [
+                {
+                    "id": "ef6d2391-0686-4239-925c-3471851eaf7c",
+                    "type": "element"
+                }
+            ]
+        ],
+        "events.json": []
+    },
+    "50986787-8b9c-4d80-aadd-ba882997bcd2": {
+        "elements.json": [
+            {
+                "id": "8691f94b-0616-42cb-9882-2e08952c5a56",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "ed153d32-4332-4de2-9a2c-12a4b477a789",
+                "templateID": "af53b257-1e4a-40ec-a1d2-312df89b1560",
+                "name": "视频-剧情-01",
+                "type": "video-plot",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "src": "19b9d989-56c6-4b06-aea5-a4e80f15ce8b",
+                "isRemote": false,
+                "time": 32.213333,
+                "resolutionRatio": {
+                    "width": 0,
+                    "height": 0
+                },
+                "displayMode": "fit"
+            },
+            {
+                "id": "153cc8f9-9e31-40ad-9ef1-9eda2b0c90a2",
+                "name": "剧情跳转",
+                "type": "plot-jump",
+                "jumpPlotID": "919f01ea-748a-4049-8359-3efff27198e5",
+                "zIndex": 4
+            }
+        ],
+        "animations.json": [
+            {
+                "action": {
+                    "delay": 0,
+                    "isFullPlay": true,
+                    "loop": false,
+                    "time": 32.213333,
+                    "type": "play",
+                    "volume": 100
+                },
+                "element": "ed153d32-4332-4de2-9a2c-12a4b477a789",
+                "id": "55809c20-cfc5-46cb-aae9-555754c00e56",
+                "moment": "direct"
+            }
+        ],
+        "timeline.json": [
+            [
+                {
+                    "id": "55809c20-cfc5-46cb-aae9-555754c00e56",
+                    "type": "element"
+                }
+            ]
+        ],
+        "events.json": []
+    },
+    "45334baf-008b-44db-a762-20c678796f41": {
+        "elements.json": [
+            {
+                "id": "0480730c-37d7-47bb-807e-7713b46be3be",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "31a5edf8-051d-4785-8a92-4139997b8ea6",
+                "templateID": "af53b257-1e4a-40ec-a1d2-312df89b1560",
+                "name": "视频-剧情-01",
+                "type": "video-plot",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "src": "8daf374b-1290-4aa2-bca3-4f3a5f202f2e",
+                "isRemote": false,
+                "time": 30.314667,
+                "resolutionRatio": {
+                    "width": 0,
+                    "height": 0
+                },
+                "displayMode": "fit"
+            },
+            {
+                "id": "dd5f50f1-ea76-455b-9670-80d51c2368fe",
+                "name": "剧情跳转",
+                "type": "plot-jump",
+                "jumpPlotID": "919f01ea-748a-4049-8359-3efff27198e5",
+                "zIndex": 3
+            }
+        ],
+        "animations.json": [
+            {
+                "action": {
+                    "delay": 0,
+                    "isFullPlay": true,
+                    "loop": false,
+                    "time": 30.314667,
+                    "type": "play",
+                    "volume": 100
+                },
+                "element": "31a5edf8-051d-4785-8a92-4139997b8ea6",
+                "id": "f0c7c54a-c780-4203-845c-29af86152055",
+                "moment": "direct"
+            }
+        ],
+        "timeline.json": [
+            [
+                {
+                    "id": "f0c7c54a-c780-4203-845c-29af86152055",
+                    "type": "element"
+                }
+            ]
+        ],
+        "events.json": []
+    },
+    "7b939f92-ad60-4b22-b9f9-c6b567867be4": {
+        "elements.json": [
+            {
+                "id": "010efa2a-e7d5-493b-a910-830dc682cda8",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "5f589a5b-aae3-486f-96d2-79b1722e29ee",
+                "templateID": "af53b257-1e4a-40ec-a1d2-312df89b1560",
+                "name": "视频-剧情-01",
+                "type": "video-plot",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "src": "0a760fab-4622-4acd-a65a-eddd8de6ff56",
+                "isRemote": false,
+                "time": 28.288,
+                "resolutionRatio": {
+                    "width": 0,
+                    "height": 0
+                },
+                "displayMode": "fit"
+            },
+            {
+                "id": "60c6ccc3-ee5c-49bc-96cd-1e998416cbd9",
+                "name": "剧情跳转",
+                "type": "plot-jump",
+                "jumpPlotID": "919f01ea-748a-4049-8359-3efff27198e5",
+                "zIndex": 3
+            }
+        ],
+        "animations.json": [
+            {
+                "action": {
+                    "delay": 0,
+                    "isFullPlay": true,
+                    "loop": false,
+                    "time": 28.288,
+                    "type": "play",
+                    "volume": 100
+                },
+                "element": "5f589a5b-aae3-486f-96d2-79b1722e29ee",
+                "id": "97993e90-c013-4dd3-a95b-35ddd5043023",
+                "moment": "direct"
+            }
+        ],
+        "timeline.json": [
+            [
+                {
+                    "id": "97993e90-c013-4dd3-a95b-35ddd5043023",
+                    "type": "element"
+                }
+            ]
+        ],
+        "events.json": []
+    },
+    "d125d4c5-deb0-4a8e-a382-4d3e5c88a3dd": {
+        "elements.json": [
+            {
+                "id": "2ec0f71a-4a02-4507-acd6-4503061cc378",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "854accdf-6aa4-479b-86e7-7e79cdac5139",
+                "templateID": null,
+                "name": "道具-01",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "height": 720,
+                    "width": 1280
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "texture": "b09c8ae1-d068-46dd-9ea3-0666ee54615f",
+                "sizeMode": 0,
+                "autoFitMode": "full-screen",
+                "linkID": null
+            },
+            {
+                "id": "cf36dcfa-3286-4dec-a6ff-f25a6b953fc9",
+                "templateID": null,
+                "name": "道具-02",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": true,
+                "position": {
+                    "x": 0,
+                    "y": -100
+                },
+                "size": {
+                    "width": 301,
+                    "height": 83.34
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 3,
+                "texture": "beb7ebf4-7bf1-4dde-a432-23d4571120e5",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            }
+        ],
+        "animations.json": [],
+        "timeline.json": [],
+        "events.json": [
+            {
+                "id": "27cdec1b-2069-47c1-9b57-91caffa98a48",
+                "element": "cf36dcfa-3286-4dec-a6ff-f25a6b953fc9",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "6aed8703-bfbf-41a6-8126-f67f01282513",
+                "delayTime": 0
+            }
+        ]
+    },
+    "81729730-e9cb-4af9-be12-030c171ce4f4": {
+        "elements.json": [
+            {
+                "id": "201e4d14-d7a6-446f-92ed-197263eaa078",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "b7f1b338-025b-4cb3-b86c-3cf62bbf565b",
+                "templateID": null,
+                "name": "道具-01",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "height": 720,
+                    "width": 1280
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "texture": "da6491ca-9494-43e3-809a-8e8d980ab8ef",
+                "sizeMode": 0,
+                "autoFitMode": "full-screen",
+                "linkID": null
+            },
+            {
+                "id": "90ebd165-6206-4d67-bfaa-c5b6f66cfeee",
+                "name": "配音-01",
+                "type": "audio-aside",
+                "src": "06e4e9b4-6e8b-4214-9465-cfe31cd57a7d",
+                "templateID": "5df3c3e7-a21d-4fa3-8843-a6b25a817d58",
+                "zIndex": 4
+            },
+            {
+                "id": "3e3097f4-cfc0-45ea-a1ac-a520365250ff",
+                "templateID": null,
+                "name": "道具-02",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 92.5,
+                    "y": -230.96153846153823
+                },
+                "size": {
+                    "width": 120,
+                    "height": 120
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 5,
+                "texture": "6ff652d8-fcb3-4745-9914-dcba42ae1d6c",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            },
+            {
+                "id": "d48ea870-a194-49ff-834b-a472cd2d0733",
+                "templateID": null,
+                "name": "道具-03",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": -375.5,
+                    "y": -66.33776595744666
+                },
+                "size": {
+                    "width": 385,
+                    "height": 70.67553191489364
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 5,
+                "texture": "b452d3b1-a88f-4b8f-94c6-bd904e5e549d",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            },
+            {
+                "id": "556f394e-5016-4249-8524-8ad7a71949aa",
+                "templateID": null,
+                "name": "道具-04",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": -371,
+                    "y": -158.47606382978688
+                },
+                "size": {
+                    "width": 388,
+                    "height": 76.95212765957446
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 6,
+                "texture": "b452d3b1-a88f-4b8f-94c6-bd904e5e549d",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            },
+            {
+                "id": "887c044a-2a01-419f-aa33-09c19a4276a5",
+                "templateID": null,
+                "name": "道具-05",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": -381.5,
+                    "y": -254
+                },
+                "size": {
+                    "width": 359,
+                    "height": 72
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 7,
+                "texture": "b452d3b1-a88f-4b8f-94c6-bd904e5e549d",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            }
+        ],
+        "animations.json": [
+            {
+                "action": {
+                    "delay": 0,
+                    "fadeIn": false,
+                    "fadeInTime": 2,
+                    "fadeOut": false,
+                    "fadeOutTime": 2,
+                    "loop": false,
+                    "time": 33.15,
+                    "type": "play",
+                    "volume": 100
+                },
+                "element": "90ebd165-6206-4d67-bfaa-c5b6f66cfeee",
+                "id": "0d2af813-8b84-4f10-b317-f63f77150284",
+                "moment": "direct"
+            }
+        ],
+        "timeline.json": [
+            [
+                {
+                    "id": "0d2af813-8b84-4f10-b317-f63f77150284",
+                    "type": "audio"
+                }
+            ]
+        ],
+        "events.json": [
+            {
+                "count": 1,
+                "delayTime": 0,
+                "element": "d48ea870-a194-49ff-834b-a472cd2d0733",
+                "emitType": "click",
+                "id": "dedcdf8c-0d21-414d-b9e7-3c03a76a59c7",
+                "jump": "899b3cae-c9ce-44c4-9234-a2fe1f3bee50",
+                "type": "plot"
+            },
+            {
+                "count": 1,
+                "delayTime": 0,
+                "element": "556f394e-5016-4249-8524-8ad7a71949aa",
+                "emitType": "click",
+                "id": "701f93ed-4855-4a0a-81cb-ba80fad9f76f",
+                "jump": "d0b0d06f-4158-44e2-a785-f3a6d1781d1c",
+                "type": "plot"
+            },
+            {
+                "count": 1,
+                "delayTime": 0,
+                "element": "887c044a-2a01-419f-aa33-09c19a4276a5",
+                "emitType": "click",
+                "id": "00fb23a1-1eea-43f2-891b-bf0b9db6b837",
+                "jump": "e3a27c26-8663-4456-8e1f-c5b80bb7a2ae",
+                "type": "plot"
+            }
+        ]
+    },
+    "4bedc640-e451-4eba-9bf9-bbb3a75b5440": {
+        "elements.json": [
+            {
+                "id": "cfa26282-00b5-4bb6-be27-e739842e8a81",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "94e95198-506b-46a5-8886-8359f4b3d912",
+                "templateID": null,
+                "name": "道具-01",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "height": 720,
+                    "width": 1280
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "texture": "bf960883-8013-4c40-88d4-25160088ce30",
+                "sizeMode": 0,
+                "autoFitMode": "full-screen",
+                "linkID": null
+            },
+            {
+                "id": "0609cecf-f185-4a13-ba5f-6307951effea",
+                "templateID": "28e9dcb1-0cdb-4a6e-85a4-df306fb10ecc",
+                "name": "道具-02",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": true,
+                "position": {
+                    "x": -371.5,
+                    "y": -177.46875000000034
+                },
+                "size": {
+                    "width": 231,
+                    "height": 63.93750000000008
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 4,
+                "texture": "8e1164b9-26b2-4886-92ac-d027ce2ba146",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            }
+        ],
+        "animations.json": [],
+        "timeline.json": [],
+        "events.json": [
+            {
+                "id": "a6c98099-6eea-47f2-b0a5-30b9172ffe8c",
+                "element": "0609cecf-f185-4a13-ba5f-6307951effea",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "5bc3be4f-ab7e-461c-bb2e-dab9b5956214",
+                "delayTime": 0
+            },
+            {
+                "id": "7e37b7c4-47eb-45dc-9128-cd25522dddaa",
+                "element": "94e95198-506b-46a5-8886-8359f4b3d912",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "919f01ea-748a-4049-8359-3efff27198e5",
+                "delayTime": 0
+            }
+        ]
+    },
+    "ed87abe9-fe30-477c-b917-45eda2ba1e86": {
+        "elements.json": [
+            {
+                "id": "4fe7973d-14c2-4cc8-b605-78b540a201ac",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "5132dfbc-396a-467d-b278-ddcaf02f4187",
+                "templateID": null,
+                "name": "道具-02",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "height": 720,
+                    "width": 1280
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 1,
+                "texture": "93f247b8-b203-4ba7-aed4-2a27153c5af9",
+                "sizeMode": 0,
+                "autoFitMode": "full-screen",
+                "linkID": null
+            }
+        ],
+        "animations.json": [],
+        "timeline.json": [],
+        "events.json": [
+            {
+                "id": "d44dc8b5-840c-4cd3-a083-028f32dd0114",
+                "element": "f6992c60-6f2f-4411-b9e0-83f19b41d98a",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "6e0694fe-2847-48a5-b45e-92dfe3ed3b1e",
+                "delayTime": 0
+            },
+            {
+                "id": "1653d513-9ecc-40d4-bac6-be0cad7e22b3",
+                "element": "5132dfbc-396a-467d-b278-ddcaf02f4187",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "68254f39-a13c-45af-8e68-11972f681e35",
+                "delayTime": 0
+            }
+        ]
+    },
+    "41a6cb91-6051-4118-9ba7-b94deac7aa37": {
+        "elements.json": [
+            {
+                "id": "b858d0cc-e1e6-471c-a187-845149388555",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "687423f2-48c0-4ded-9e61-b5bae3adad75",
+                "templateID": null,
+                "name": "道具-01",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "height": 720,
+                    "width": 1280
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "texture": "1ae21312-533f-4c58-9858-d2e30d027f21",
+                "sizeMode": 0,
+                "autoFitMode": "full-screen"
+            }
+        ],
+        "animations.json": [],
+        "timeline.json": [],
+        "events.json": []
+    },
+    "8aaad7df-481b-4498-a3b4-b065c81ebde5": {
+        "elements.json": [
+            {
+                "id": "634df0d9-49ac-4dd4-9596-2e9aebee2ca2",
+                "name": "快速插入场景",
+                "type": "helper-insert-scene",
+                "zIndex": 1
+            },
+            {
+                "id": "5c3b385e-0eee-463e-90bf-9c8c05f13067",
+                "templateID": "af53b257-1e4a-40ec-a1d2-312df89b1560",
+                "name": "视频-剧情-01",
+                "type": "video-plot",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 2,
+                "src": "0afa7b7a-7c46-4560-8aae-2169e3db7bc5",
+                "isRemote": false,
+                "time": 36.757333,
+                "resolutionRatio": {
+                    "width": 0,
+                    "height": 0
+                },
+                "displayMode": "fit"
+            },
+            {
+                "id": "19cb1bd1-a80d-4c1a-b175-54671f78469a",
+                "templateID": null,
+                "name": "道具-01",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": -373,
+                    "y": -65
+                },
+                "size": {
+                    "width": 382,
+                    "height": 66
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 3,
+                "texture": "b452d3b1-a88f-4b8f-94c6-bd904e5e549d",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            },
+            {
+                "id": "c66fad33-897d-4ff2-bfca-3e62fcaa3c3d",
+                "templateID": null,
+                "name": "道具-02",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": -327.3600000000001,
+                    "y": -155.60372340425545
+                },
+                "size": {
+                    "width": 457.28000000000003,
+                    "height": 69.20744680851064
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 4,
+                "texture": "b452d3b1-a88f-4b8f-94c6-bd904e5e549d",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            },
+            {
+                "id": "60cd6ee3-e9d0-4a3c-be52-8f6563e50e37",
+                "templateID": null,
+                "name": "道具-03",
+                "type": "image-item",
+                "lockPos": false,
+                "lockSizeRatio": false,
+                "position": {
+                    "x": -359.0999999999988,
+                    "y": -252.5
+                },
+                "size": {
+                    "width": 395.80000000000126,
+                    "height": 69
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1
+                },
+                "active": true,
+                "opacity": 255,
+                "color": "#ffffff",
+                "zIndex": 5,
+                "texture": "b452d3b1-a88f-4b8f-94c6-bd904e5e549d",
+                "sizeMode": 0,
+                "autoFitMode": "none"
+            }
+        ],
+        "animations.json": [
+            {
+                "id": "37259e67-97bb-4109-b1c2-0410484c995c",
+                "element": "5c3b385e-0eee-463e-90bf-9c8c05f13067",
+                "action": {
+                    "type": "play",
+                    "delay": 0,
+                    "volume": 100,
+                    "time": 0,
+                    "loop": false,
+                    "isFullPlay": true
+                },
+                "moment": "afterPrevious"
+            }
+        ],
+        "timeline.json": [
+            [
+                {
+                    "id": "37259e67-97bb-4109-b1c2-0410484c995c",
+                    "type": "element"
+                }
+            ]
+        ],
+        "events.json": [
+            {
+                "id": "da9dc2ca-5521-4c93-ad1a-63e23fa950d2",
+                "element": "19cb1bd1-a80d-4c1a-b175-54671f78469a",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "899b3cae-c9ce-44c4-9234-a2fe1f3bee50",
+                "delayTime": 0
+            },
+            {
+                "id": "6a5713f0-45b4-4118-83fb-6bf182aa3157",
+                "element": "c66fad33-897d-4ff2-bfca-3e62fcaa3c3d",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "d0b0d06f-4158-44e2-a785-f3a6d1781d1c",
+                "delayTime": 0
+            },
+            {
+                "id": "099aa406-210a-46ce-a929-5fd1cc5745ba",
+                "element": "60cd6ee3-e9d0-4a3c-be52-8f6563e50e37",
+                "type": "plot",
+                "count": 1,
+                "emitType": "click",
+                "jump": "e3a27c26-8663-4456-8e1f-c5b80bb7a2ae",
+                "delayTime": 0
+            }
+        ]
+    }
+}

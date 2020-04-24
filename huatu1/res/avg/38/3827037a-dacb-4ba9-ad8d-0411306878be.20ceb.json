@@ -1,0 +1,1143 @@
+{
+    "7e6be316-51b4-4017-a18d-48bc46ec939a": {
+        "path": "res/default/role-1.png",
+        "type": "image"
+    },
+    "a3aa2af6-90f7-4980-bea9-84e84dfa3ec6": {
+        "path": "res/default/frame-name.png",
+        "type": "image"
+    },
+    "784474e3-9fd6-4090-9012-617a1a693003": {
+        "path": "res/default/frame-text.png",
+        "type": "image"
+    },
+    "d56760d2-ab70-4cb2-8791-592bf8a05ad9": {
+        "path": "res/default/frame-text2.png",
+        "type": "image"
+    },
+    "d82003cf-0196-4fe8-aadc-c1ac67a3cc1f": {
+        "path": "res/default/plot-menu.png",
+        "type": "image"
+    },
+    "5bd433c6-ab0c-443f-9374-e19d68c08f00": {
+        "path": "res/default/avg-menus.png",
+        "type": "image"
+    },
+    "80683f67-fb22-4b5f-a157-e86f58fe3518": {
+        "path": "res/default/ui-file-mgr/back.png",
+        "type": "image"
+    },
+    "fcd183b7-5e0c-4203-8f15-2c619df86c54": {
+        "path": "res/default/cover-bg.png",
+        "type": "image"
+    },
+    "4a097b6d-50fd-4631-b472-da036cd8f163": {
+        "path": "res/default/btn-normal.png",
+        "type": "image"
+    },
+    "89550671-cc19-4117-854c-ec319787110c": {
+        "path": "res/default/btn-press.png",
+        "type": "image"
+    },
+    "3dbaa718-5e90-477d-ba66-e98b509c8887": {
+        "path": "res/default/ui-file-mgr/frame-normal.png",
+        "type": "image"
+    },
+    "d9a576f1-8f3b-484f-8758-989abc3132a0": {
+        "path": "res/default/ui-file-mgr/icon.png",
+        "type": "image"
+    },
+    "471d56a8-c474-41cd-af5a-030ee3944b7b": {
+        "path": "res/default/ui-env/frame.png",
+        "type": "image"
+    },
+    "6712c1aa-05e3-453a-9473-c62350aab775": {
+        "path": "res/default/ui-env/slider1.png",
+        "type": "image"
+    },
+    "6da73290-5995-44b3-8507-3ce2796869ee": {
+        "path": "res/default/ui-env/slider2.png",
+        "type": "image"
+    },
+    "9d68a76f-d6e5-495c-9d7e-066c0b143409": {
+        "path": "res/default/ui-env/button.png",
+        "type": "image"
+    },
+    "adebbcd5-7832-4761-a0a3-f30303ea7d42": {
+        "path": "cfg/init.json",
+        "type": "config"
+    },
+    "5f2efc47-59c9-41f7-bb1f-57d6a2d31677": {
+        "path": "cfg/settings.json",
+        "type": "config"
+    },
+    "e2478c4d-3242-4eb0-9719-88ef5061e6ba": {
+        "path": "cfg/ui.json",
+        "type": "config"
+    },
+    "4d2ebe85-7d75-4708-9ef1-dbcac0e4bad6": {
+        "path": "res/default/btn-end.png",
+        "type": "image"
+    },
+    "c8f8d45e-01f2-4e9a-b07d-9d010c2477f5": {
+        "path": "res/default/btn-replay.png",
+        "type": "image"
+    },
+    "5150d6ee-fc8e-4e9a-ab3a-8921fad37411": {
+        "path": "res/default/font/font1.ttf"
+    },
+    "a82761ec-f534-434a-9d72-5b497543c365": {
+        "path": "res/default/font/font2.ttf"
+    },
+    "6e04c8a5-4845-411f-8d5a-eba355d28da4": {
+        "path": "res/default/font/font3.ttf"
+    },
+    "2072fe03-0b6b-464a-8052-77edfdab159d": {
+        "path": "res/default/font/font4.ttf"
+    },
+    "e44ba5ae-e59f-447c-bc25-f2fc354a6e0c": {
+        "path": "res/default/font/font5.ttf"
+    },
+    "97268147-1d14-4f5f-a257-277bd94d3ada": {
+        "path": "res/default/font/font6.ttf"
+    },
+    "36077b4d-9915-43ce-8d44-e66f840fc3b1": {
+        "path": "res/default/font/font7.ttf"
+    },
+    "26055a7c-4f63-4be4-bf58-56094cb595ed": {
+        "path": "res/default/font/font8.ttf"
+    },
+    "8c45d9b9-32d7-49d2-b351-d9fdc463790e": {
+        "path": "res/default/plot-menu-selected.png",
+        "type": "image"
+    },
+    "a54ee010-8d6a-4adc-ac90-3e18c9affb56": {
+        "path": "res/default/ui-env",
+        "type": "folder"
+    },
+    "7a0b61e7-b830-4ff7-af26-0d9c69339880": {
+        "path": "res/default/ui-file-mgr",
+        "type": "folder"
+    },
+    "71705896-527a-42bb-8e6b-6883ce2cc53a": {
+        "path": "res/default/videoPlayFlag.png",
+        "type": "image"
+    },
+    "8675a572-9a8d-4acd-a034-e86f23629347": {
+        "path": "res/default/template/audio.mp3",
+        "type": "audio",
+        "duration": 2.07
+    },
+    "e97c92b0-d78a-468c-b09b-fbc21f68a1e0": {
+        "path": "res/default/template/bg-horizontal.png",
+        "type": "image"
+    },
+    "e97c92b0-d78a-468c-5pk0-fbc21f68a1e0": {
+        "path": "res/default/template/bg-vertical.png",
+        "type": "image"
+    },
+    "a2e13d4c-319d-4af4-8996-58689f5e5d7f": {
+        "path": "res/default/template/draw.png",
+        "type": "image"
+    },
+    "4dfb5e28-608e-4d12-ab90-700f4dcc7e6d": {
+        "path": "res/default/template/item.png",
+        "type": "image"
+    },
+    "beee34e7-62e5-4b53-bd61-4c2da7f138e3": {
+        "path": "res/default/template/video-horizontal.mp4",
+        "type": "video",
+        "duration": 2.04,
+        "start": 0
+    },
+    "dfaf3a76-06e1-4ebe-823d-a006c3ce0a8d": {
+        "path": "res/default/plot-menu-limit-progress1.png",
+        "type": "image"
+    },
+    "6b58bb48-405d-42bc-b8ff-5a95d61bb698": {
+        "path": "res/default/plot-menu-limit-progress2.png",
+        "type": "image"
+    },
+    "651d667e-17a3-4db5-bf37-0e61a05afbcc": {
+        "path": "res/default/pwdLockBox/box1-close.png",
+        "type": "image"
+    },
+    "aad0671e-2afb-4524-8f55-48f267e456a1": {
+        "path": "res/default/pwdLockBox/box1-open.png",
+        "type": "image"
+    },
+    "39912cde-b092-49c1-820e-c3fd96f9b14b": {
+        "path": "res/default/pwdLockBox/box2-close.png",
+        "type": "image"
+    },
+    "4ef2b766-e9e1-47ee-8db5-b90282cac285": {
+        "path": "res/default/pwdLockBox/box2-open.png",
+        "type": "image"
+    },
+    "7765d11f-9a69-4420-baf1-b72435a5a39d": {
+        "path": "res/default/bag/avg-bag.png",
+        "type": "image"
+    },
+    "326cc327-6137-47db-ad2f-5d4db14fcc34": {
+        "path": "res/default/bag/back.png",
+        "type": "image"
+    },
+    "ae97375b-12bb-4b5c-8492-62319eea6b53": {
+        "path": "res/default/bag/bg.png",
+        "type": "image"
+    },
+    "6762f7c0-0ce5-4b26-a840-a7204a85e3c6": {
+        "path": "cfg/ui/cover.json",
+        "type": "config"
+    },
+    "cea00c35-6d50-488d-af7b-80a7951db101": {
+        "path": "cfg/ui/file-management.json",
+        "type": "config"
+    },
+    "6687c830-2efe-4922-8a7d-4a8bb1e82a01": {
+        "path": "cfg/ui/environment.json",
+        "type": "config"
+    },
+    "0dd627c2-8baf-4f15-88ac-9a4198489579": {
+        "path": "cfg/ui/menu.json",
+        "type": "config"
+    },
+    "adb9d2da-52c5-468e-b420-474550a5c8b2": {
+        "path": "cfg/ui/entry-set.json",
+        "type": "config"
+    },
+    "2508e143-0e3a-49b5-aeaa-cea0ea3cd3fd": {
+        "path": "cfg/piece.json",
+        "type": "config"
+    },
+    "b1961f53-2c03-4a5d-8ba5-75a6322eb9f5": {
+        "path": "cfg/plot.json",
+        "type": "config"
+    },
+    "3af47cc3-e51c-4769-bd3c-3329bcf0891b": {
+        "path": "cfg/role-scene.json",
+        "type": "config"
+    },
+    "22117c12-3b8a-412c-a65c-2762a1c0477a": {
+        "path": "cfg/numerical.json",
+        "type": "config"
+    },
+    "99ae9229-bc25-459b-899a-a568c2d172c4": {
+        "path": "template/背景",
+        "type": "folder"
+    },
+    "4862147a-e4fd-4c70-9b1c-2a4850af621a": {
+        "path": "template/背景/默认模板",
+        "type": "template"
+    },
+    "1ebfa337-239a-445b-bfec-02b06da95773": {
+        "path": "template/背景/默认模板/animations.json",
+        "type": "asset"
+    },
+    "487513b6-8308-4e07-9ccd-5917d62879af": {
+        "path": "template/背景/默认模板/elements.json",
+        "type": "asset"
+    },
+    "dcc5f982-d9a4-4c92-802f-e0decae04913": {
+        "path": "template/背景/默认模板/events.json",
+        "type": "asset"
+    },
+    "79690fea-5916-4113-8237-18b35117eab7": {
+        "path": "template/背景音乐",
+        "type": "folder"
+    },
+    "d600303f-f6dc-4a69-a67a-4f4c5426e337": {
+        "path": "template/背景音乐/默认模板",
+        "type": "template"
+    },
+    "6c2c1d10-9c83-4356-a4bb-12a8ebde44b2": {
+        "path": "template/背景音乐/默认模板/animations.json",
+        "type": "asset"
+    },
+    "c034d777-e9b4-47d3-888a-617c8f54a812": {
+        "path": "template/背景音乐/默认模板/elements.json",
+        "type": "asset"
+    },
+    "c0d39b7c-7628-4e28-8def-77a49d297747": {
+        "path": "template/背景音乐/默认模板/events.json",
+        "type": "asset"
+    },
+    "1a18cd3c-f35c-4c38-9101-ff2f2d6e065b": {
+        "path": "template/道具",
+        "type": "folder"
+    },
+    "28e9dcb1-0cdb-4a6e-85a4-df306fb10ecc": {
+        "path": "template/道具/默认模板",
+        "type": "template"
+    },
+    "1cd45f7f-c367-472f-a476-73bb0a543d06": {
+        "path": "template/道具/默认模板/animations.json",
+        "type": "asset"
+    },
+    "e43d26a7-8f43-4280-8cbe-cc5fa1903123": {
+        "path": "template/道具/默认模板/elements.json",
+        "type": "asset"
+    },
+    "029b40ab-1c35-4eb6-8480-ad64e58b66a7": {
+        "path": "template/道具/默认模板/events.json",
+        "type": "asset"
+    },
+    "8a750909-9b22-4ed2-99d8-b789566ecac3": {
+        "path": "template/对话框",
+        "type": "folder"
+    },
+    "d3c03b23-94b4-4ece-ad6a-3b0c418a8f9d": {
+        "path": "template/对话框/默认模板-无头像",
+        "type": "template"
+    },
+    "a0e81a8f-2625-4cab-8f34-2d1d11c2d205": {
+        "path": "template/对话框/默认模板-无头像/animations.json",
+        "type": "asset"
+    },
+    "864e1dd4-c3f1-4aaa-804f-66802333e8de": {
+        "path": "template/对话框/默认模板-无头像/elements.json",
+        "type": "asset"
+    },
+    "f03a5255-e928-4312-9fc9-dabe2c692549": {
+        "path": "template/对话框/默认模板-无头像/events.json",
+        "type": "asset"
+    },
+    "32122f70-6f4f-43be-b7b9-a544496e1090": {
+        "path": "template/对话框/默认模板-有头像",
+        "type": "template"
+    },
+    "c7853c18-5212-4ba7-969a-a49080ea7d11": {
+        "path": "template/对话框/默认模板-有头像/animations.json",
+        "type": "asset"
+    },
+    "b07b0914-ee20-44e5-9fcd-c62ee3ce0783": {
+        "path": "template/对话框/默认模板-有头像/elements.json",
+        "type": "asset"
+    },
+    "be36c591-024e-40f5-ba40-cdba9f22b53c": {
+        "path": "template/对话框/默认模板-有头像/events.json",
+        "type": "asset"
+    },
+    "1345ccce-9797-4f9d-b676-218ddcc9d4f9": {
+        "path": "template/剧情选择器",
+        "type": "folder"
+    },
+    "194d2340-b0d9-436b-afc1-f6d7832183bb": {
+        "path": "template/剧情选择器/默认模板-2选项",
+        "type": "template"
+    },
+    "9732d752-10ce-4ad8-812a-8e4e5585e357": {
+        "path": "template/剧情选择器/默认模板-2选项/animations.json",
+        "type": "asset"
+    },
+    "74f5e516-ee6e-4254-ac15-4a88f818951a": {
+        "path": "template/剧情选择器/默认模板-2选项/elements.json",
+        "type": "asset"
+    },
+    "6c0622c7-0ea6-4bff-80b1-d0f0a2cb4e83": {
+        "path": "template/剧情选择器/默认模板-2选项/events.json",
+        "type": "asset"
+    },
+    "ee0bc8e5-7739-4998-bab7-6639663508e6": {
+        "path": "template/剧情选择器/默认模板-3选项",
+        "type": "template"
+    },
+    "9522b2d3-f045-46c3-b7a3-858089e37112": {
+        "path": "template/剧情选择器/默认模板-3选项/animations.json",
+        "type": "asset"
+    },
+    "c0930203-dc71-41fa-8d8f-67e6dda64576": {
+        "path": "template/剧情选择器/默认模板-3选项/elements.json",
+        "type": "asset"
+    },
+    "6d7730c4-c819-4a65-ba67-ff93ecebbef1": {
+        "path": "template/剧情选择器/默认模板-3选项/events.json",
+        "type": "asset"
+    },
+    "b1bc32b1-96b2-4aaa-b5b4-c1b36a2d7bb7": {
+        "path": "template/立绘",
+        "type": "folder"
+    },
+    "0c2f2e6b-00a9-4de3-a0e6-067ca371ead6": {
+        "path": "template/立绘/默认模板-居右",
+        "type": "template"
+    },
+    "bbca1c5d-fd40-4c08-b9a4-618ea667a520": {
+        "path": "template/立绘/默认模板-居右/animations.json",
+        "type": "asset"
+    },
+    "e9c84c81-9b0d-4c44-ba3d-49fb62ade714": {
+        "path": "template/立绘/默认模板-居右/elements.json",
+        "type": "asset"
+    },
+    "aa749c15-8895-40dc-8e4a-ef9599f66e76": {
+        "path": "template/立绘/默认模板-居右/events.json",
+        "type": "asset"
+    },
+    "b6fa0340-fda7-4ef3-9053-d4a30042cc78": {
+        "path": "template/立绘/默认模板-居中",
+        "type": "template"
+    },
+    "e262022e-fb9c-4e8b-93ba-b81bd281da1d": {
+        "path": "template/立绘/默认模板-居中/animations.json",
+        "type": "asset"
+    },
+    "01db18b9-fed9-42f6-95b2-fcf7de2e47c7": {
+        "path": "template/立绘/默认模板-居中/elements.json",
+        "type": "asset"
+    },
+    "6c1add07-10d7-483e-93dd-03c8ff10f646": {
+        "path": "template/立绘/默认模板-居中/events.json",
+        "type": "asset"
+    },
+    "eaf90068-5290-4d3f-95a5-34f6ef39c0f8": {
+        "path": "template/立绘/默认模板-居左",
+        "type": "template"
+    },
+    "3697e9d4-6e88-42be-a76a-1b935087ac9b": {
+        "path": "template/立绘/默认模板-居左/animations.json",
+        "type": "asset"
+    },
+    "12503194-5ecb-4d50-a574-086f5768646f": {
+        "path": "template/立绘/默认模板-居左/elements.json",
+        "type": "asset"
+    },
+    "5909b0bd-49ed-498f-ac53-1b4e9c264a9f": {
+        "path": "template/立绘/默认模板-居左/events.json",
+        "type": "asset"
+    },
+    "086aaace-f551-4750-8cc3-1d11d3bdd80f": {
+        "path": "template/密码锁",
+        "type": "folder"
+    },
+    "cd427c88-7ad6-4d5d-8963-9e5365e1e803": {
+        "path": "template/密码锁/默认模板-防盗门",
+        "type": "template"
+    },
+    "b6f9adec-801e-4c71-b7a1-a9371301520b": {
+        "path": "template/密码锁/默认模板-防盗门/animations.json",
+        "type": "asset"
+    },
+    "6aaa8760-aecc-4683-a78a-7d4b5b0303ab": {
+        "path": "template/密码锁/默认模板-防盗门/elements.json",
+        "type": "asset"
+    },
+    "d4576961-e0c0-4d87-b61f-7442863dfd3d": {
+        "path": "template/密码锁/默认模板-防盗门/events.json",
+        "type": "asset"
+    },
+    "3abe4ef1-abe8-4613-9730-93ee802566bc": {
+        "path": "template/密码锁/默认模板-密码箱",
+        "type": "template"
+    },
+    "b4fd4912-5ca8-4648-b775-325215cb02a7": {
+        "path": "template/密码锁/默认模板-密码箱/animations.json",
+        "type": "asset"
+    },
+    "e2d6bb1c-cc49-4eee-be0d-a0ddb80945bc": {
+        "path": "template/密码锁/默认模板-密码箱/elements.json",
+        "type": "asset"
+    },
+    "54f67519-b52e-4a51-b763-af17d584f689": {
+        "path": "template/密码锁/默认模板-密码箱/events.json",
+        "type": "asset"
+    },
+    "f4fd496b-c69f-48e9-9aef-6442fa0c6fef": {
+        "path": "template/配音",
+        "type": "folder"
+    },
+    "5df3c3e7-a21d-4fa3-8843-a6b25a817d58": {
+        "path": "template/配音/默认模板",
+        "type": "template"
+    },
+    "2ff51ddf-9a82-4aac-a4e8-760e66ee137c": {
+        "path": "template/配音/默认模板/animations.json",
+        "type": "asset"
+    },
+    "1d064342-a3f8-4084-aa7e-0e71f847718c": {
+        "path": "template/配音/默认模板/elements.json",
+        "type": "asset"
+    },
+    "4a48735e-427c-40f5-b0c1-d679a94b0ca6": {
+        "path": "template/配音/默认模板/events.json",
+        "type": "asset"
+    },
+    "c00e696c-a246-4371-8438-a7fdce92901f": {
+        "path": "template/视频",
+        "type": "folder"
+    },
+    "af53b257-1e4a-40ec-a1d2-312df89b1560": {
+        "path": "template/视频/默认模板",
+        "type": "template"
+    },
+    "dc2906f3-74ea-4eff-8782-4641ee6f89ec": {
+        "path": "template/视频/默认模板/animations.json",
+        "type": "asset"
+    },
+    "4f68b62b-3c08-48e6-b1d3-94fab53003ef": {
+        "path": "template/视频/默认模板/elements.json",
+        "type": "asset"
+    },
+    "c8ba3bae-deea-4a35-9f26-d802c7188deb": {
+        "path": "template/视频/默认模板/events.json",
+        "type": "asset"
+    },
+    "95f8c58d-8fe4-48f8-acd8-7edc458ea716": {
+        "path": "template/头像",
+        "type": "folder"
+    },
+    "2627939e-ace0-4d08-a28f-a9fd3d7fe311": {
+        "path": "template/头像/默认模板",
+        "type": "template"
+    },
+    "ed995a37-127d-45f8-8a81-11da927f9a44": {
+        "path": "template/头像/默认模板/animations.json",
+        "type": "asset"
+    },
+    "25438447-32e0-4137-923d-b2ac773250b7": {
+        "path": "template/头像/默认模板/elements.json",
+        "type": "asset"
+    },
+    "f20c4d26-d125-4b9f-af7c-4cd82769a2db": {
+        "path": "template/头像/默认模板/events.json",
+        "type": "asset"
+    },
+    "a8e75ba2-248d-46ad-a097-184d22629985": {
+        "path": "template/文本框",
+        "type": "folder"
+    },
+    "3a8f6810-d6f8-47b8-96e9-8463341c52c9": {
+        "path": "template/文本框/默认模板-横向",
+        "type": "template"
+    },
+    "4a029275-0b3e-45a5-9ff7-196fde7b7035": {
+        "path": "template/文本框/默认模板-横向/animations.json",
+        "type": "asset"
+    },
+    "88e36fc0-ede9-4dd8-818b-bd835ae30929": {
+        "path": "template/文本框/默认模板-横向/elements.json",
+        "type": "asset"
+    },
+    "9fadc1cf-3c24-4e8c-96b3-bb0fa3eb2b44": {
+        "path": "template/文本框/默认模板-横向/events.json",
+        "type": "asset"
+    },
+    "67c41286-45dc-47f6-a014-b7bdcb46c585": {
+        "path": "template/文本框/默认模板-纵向",
+        "type": "template"
+    },
+    "0c2748aa-f546-41ec-8813-dc2c7ca14cf6": {
+        "path": "template/文本框/默认模板-纵向/animations.json",
+        "type": "asset"
+    },
+    "273f2c56-3850-47d5-97c8-9e8ed678414b": {
+        "path": "template/文本框/默认模板-纵向/elements.json",
+        "type": "asset"
+    },
+    "899182f6-3f6c-4800-bb73-5f19fcc5a429": {
+        "path": "template/文本框/默认模板-纵向/events.json",
+        "type": "asset"
+    },
+    "33cb92c1-c29c-4c31-94b5-38d0a772b608": {
+        "path": "template/效果音乐",
+        "type": "folder"
+    },
+    "fc0f5e16-c0a5-4ff6-b024-9c0dbd340af8": {
+        "path": "template/效果音乐/默认模板",
+        "type": "template"
+    },
+    "09109b2d-d259-4a2e-8a9b-afac9556e47c": {
+        "path": "template/效果音乐/默认模板/animations.json",
+        "type": "asset"
+    },
+    "50e59e14-d450-4548-a272-2ff7a1390199": {
+        "path": "template/效果音乐/默认模板/elements.json",
+        "type": "asset"
+    },
+    "12b75140-6ac2-47ee-a301-4813c0866b0e": {
+        "path": "template/效果音乐/默认模板/events.json",
+        "type": "asset"
+    },
+    "f66ab4d2-b8dc-44a3-b239-e4729ee423a3": {
+        "path": "template/QTE快速反应",
+        "type": "folder"
+    },
+    "55b21f24-2186-4dea-ad9e-d0b259b278e0": {
+        "path": "template/QTE快速反应/默认模板",
+        "type": "template"
+    },
+    "d9f6ec0b-78ca-40b8-9810-b31c5dffe0b5": {
+        "path": "template/QTE快速反应/默认模板/animations.json",
+        "type": "asset"
+    },
+    "00e61362-b574-4df3-b504-888cb9a1f142": {
+        "path": "template/QTE快速反应/默认模板/elements.json",
+        "type": "asset"
+    },
+    "e78bf790-159f-4788-9059-b472fe91a276": {
+        "path": "template/QTE快速反应/默认模板/events.json",
+        "type": "asset"
+    },
+    "95404931-a216-4f2b-bb63-ece17a745f40": {
+        "path": "cfg/piece",
+        "type": "folder"
+    },
+    "1e36b2b0-546b-47bd-b52b-82cb324a1bc9": {
+        "path": "cfg/goods.json",
+        "type": "config"
+    },
+    "f0130eb3-a4b0-4936-8ce3-e4e72fe35444": {
+        "path": "res/video/plot/1.MP4"
+    },
+    "3827037a-dacb-4ba9-ad8d-0411306878be": {
+        "path": "cfg/assets.json",
+        "type": "config"
+    },
+    "0afa7b7a-7c46-4560-8aae-2169e3db7bc5": {
+        "path": "res/video/plot/1.mp4",
+        "type": "video",
+        "duration": 36.76,
+        "start": 0
+    },
+    "f2310870-8a36-45f7-b3f5-211043ad6bef": {
+        "path": "cfg/piece/d0836f3d-8633-4935-b732-e8435a852ab6/animations.json",
+        "type": "piece"
+    },
+    "dde74c8d-9728-46cc-aa2e-0f220e55b9c2": {
+        "path": "cfg/piece/d0836f3d-8633-4935-b732-e8435a852ab6/elements.json",
+        "type": "piece"
+    },
+    "141306b1-a523-49fa-bc33-2741321e0bc8": {
+        "path": "cfg/piece/d0836f3d-8633-4935-b732-e8435a852ab6/events.json",
+        "type": "piece"
+    },
+    "060bdcf7-8c42-461c-a76b-c1bca5cfc232": {
+        "path": "cfg/piece/d0836f3d-8633-4935-b732-e8435a852ab6/timeline.json",
+        "type": "piece"
+    },
+    "0f1edeac-5219-49d8-8560-52df8981f361": {
+        "path": "cfg/piece/d0836f3d-8633-4935-b732-e8435a852ab6",
+        "type": "folder"
+    },
+    "f27927c2-7ec4-4064-91ab-48b1ce9531bf": {
+        "path": "cfg/piece/8b7c1891-bf4a-4a5d-8ed1-a54c8eb700bc/animations.json",
+        "type": "piece"
+    },
+    "2d7159d2-be49-4900-af46-4f4ef495256a": {
+        "path": "cfg/piece/8b7c1891-bf4a-4a5d-8ed1-a54c8eb700bc/elements.json",
+        "type": "piece"
+    },
+    "a7d0407b-0522-4971-9d0c-eed2a57f23fc": {
+        "path": "cfg/piece/8b7c1891-bf4a-4a5d-8ed1-a54c8eb700bc/events.json",
+        "type": "piece"
+    },
+    "c6854669-4a71-4781-a4de-8e5d72300c62": {
+        "path": "cfg/piece/8b7c1891-bf4a-4a5d-8ed1-a54c8eb700bc/timeline.json",
+        "type": "piece"
+    },
+    "50986787-8b9c-4d80-aadd-ba882997bcd2": {
+        "path": "cfg/piece/8b7c1891-bf4a-4a5d-8ed1-a54c8eb700bc",
+        "type": "folder"
+    },
+    "cc1e5d3e-6f1d-4b45-89af-e1357c4a2f58": {
+        "path": "cfg/piece/623eda3a-2c88-49e6-a00b-86adaff5de4c/animations.json",
+        "type": "piece"
+    },
+    "33316719-eb5a-4b35-9dbb-1945aadda3ba": {
+        "path": "cfg/piece/623eda3a-2c88-49e6-a00b-86adaff5de4c/elements.json",
+        "type": "piece"
+    },
+    "0ad919fe-a258-4326-b751-83b0df5b6bad": {
+        "path": "cfg/piece/623eda3a-2c88-49e6-a00b-86adaff5de4c/events.json",
+        "type": "piece"
+    },
+    "63529738-174c-433c-a578-b35e7b31efb3": {
+        "path": "cfg/piece/623eda3a-2c88-49e6-a00b-86adaff5de4c/timeline.json",
+        "type": "piece"
+    },
+    "45334baf-008b-44db-a762-20c678796f41": {
+        "path": "cfg/piece/623eda3a-2c88-49e6-a00b-86adaff5de4c",
+        "type": "folder"
+    },
+    "4bcd6cea-db8c-4be4-9b32-9112511bd80a": {
+        "path": "cfg/piece/b0a4a0a0-8d32-4e73-8353-a8dfe8ebf683/animations.json",
+        "type": "piece"
+    },
+    "78846b41-1f49-4f49-977d-ef1ee34eb08c": {
+        "path": "cfg/piece/b0a4a0a0-8d32-4e73-8353-a8dfe8ebf683/elements.json",
+        "type": "piece"
+    },
+    "26966fb5-66a2-4374-8fcc-0df8c6d516e8": {
+        "path": "cfg/piece/b0a4a0a0-8d32-4e73-8353-a8dfe8ebf683/events.json",
+        "type": "piece"
+    },
+    "3f525ce8-06db-4318-8488-5e354842b962": {
+        "path": "cfg/piece/b0a4a0a0-8d32-4e73-8353-a8dfe8ebf683/timeline.json",
+        "type": "piece"
+    },
+    "7b939f92-ad60-4b22-b9f9-c6b567867be4": {
+        "path": "cfg/piece/b0a4a0a0-8d32-4e73-8353-a8dfe8ebf683",
+        "type": "folder"
+    },
+    "19b9d989-56c6-4b06-aea5-a4e80f15ce8b": {
+        "path": "res/video/plot/2.mp4",
+        "type": "video",
+        "duration": 32.21,
+        "start": 0
+    },
+    "0a760fab-4622-4acd-a65a-eddd8de6ff56": {
+        "path": "res/video/plot/4.mp4",
+        "type": "video",
+        "duration": 28.29,
+        "start": 0
+    },
+    "b5018e27-a7b3-48cc-9048-3dd66fa4a5a2": {
+        "path": "cfg/piece/c0e8e76a-64ea-4c4c-be40-deeaef537896/animations.json",
+        "type": "piece"
+    },
+    "338de02a-e6bf-4dc2-ad74-ede1023b17b6": {
+        "path": "cfg/piece/c0e8e76a-64ea-4c4c-be40-deeaef537896/elements.json",
+        "type": "piece"
+    },
+    "8f683cda-e528-415e-969e-d26e43a75bf5": {
+        "path": "cfg/piece/c0e8e76a-64ea-4c4c-be40-deeaef537896/events.json",
+        "type": "piece"
+    },
+    "9471a323-ee31-4b0f-9380-0bf89aa95836": {
+        "path": "cfg/piece/c0e8e76a-64ea-4c4c-be40-deeaef537896/timeline.json",
+        "type": "piece"
+    },
+    "d125d4c5-deb0-4a8e-a382-4d3e5c88a3dd": {
+        "path": "cfg/piece/c0e8e76a-64ea-4c4c-be40-deeaef537896",
+        "type": "folder"
+    },
+    "065cd599-c57f-4170-b378-2375432a9768": {
+        "path": "cfg/piece/db2ea182-9a69-42ea-ae1b-4df81b7d4a2c/animations.json",
+        "type": "piece"
+    },
+    "8cdcd264-2a01-4cc8-b1bc-23452d559f7d": {
+        "path": "cfg/piece/db2ea182-9a69-42ea-ae1b-4df81b7d4a2c/elements.json",
+        "type": "piece"
+    },
+    "63a11a55-c6f3-4064-8dad-df8cfb07ccb2": {
+        "path": "cfg/piece/db2ea182-9a69-42ea-ae1b-4df81b7d4a2c/events.json",
+        "type": "piece"
+    },
+    "b5d42ef1-9419-4e6a-98a3-eef4a6c475f9": {
+        "path": "cfg/piece/db2ea182-9a69-42ea-ae1b-4df81b7d4a2c/timeline.json",
+        "type": "piece"
+    },
+    "81729730-e9cb-4af9-be12-030c171ce4f4": {
+        "path": "cfg/piece/db2ea182-9a69-42ea-ae1b-4df81b7d4a2c",
+        "type": "folder"
+    },
+    "3c9d20b5-8219-446f-84ed-932b527473ec": {
+        "path": "cfg/piece/c119f678-1cfa-4ed5-a2d8-a0361d52dfeb/animations.json",
+        "type": "piece"
+    },
+    "a68b9a76-5690-43c4-b37a-3b28a73ffb27": {
+        "path": "cfg/piece/c119f678-1cfa-4ed5-a2d8-a0361d52dfeb/elements.json",
+        "type": "piece"
+    },
+    "f5120264-ec7b-4798-9cbf-55bdf1da72dd": {
+        "path": "cfg/piece/c119f678-1cfa-4ed5-a2d8-a0361d52dfeb/events.json",
+        "type": "piece"
+    },
+    "3ac0d51d-bade-4fb8-95c1-47419b977345": {
+        "path": "cfg/piece/c119f678-1cfa-4ed5-a2d8-a0361d52dfeb/timeline.json",
+        "type": "piece"
+    },
+    "4bedc640-e451-4eba-9bf9-bbb3a75b5440": {
+        "path": "cfg/piece/c119f678-1cfa-4ed5-a2d8-a0361d52dfeb",
+        "type": "folder"
+    },
+    "2aaca1b0-bcba-40f0-9a4b-641275c483db": {
+        "path": "cfg/piece/733e68e2-220c-4e4a-944a-75b568ebde0b/animations.json",
+        "type": "piece"
+    },
+    "55524c0f-c963-4ccd-99ad-42aa52e08baa": {
+        "path": "cfg/piece/733e68e2-220c-4e4a-944a-75b568ebde0b/elements.json",
+        "type": "piece"
+    },
+    "6cd3f708-239f-4278-a3a4-ba69a7724300": {
+        "path": "cfg/piece/733e68e2-220c-4e4a-944a-75b568ebde0b/events.json",
+        "type": "piece"
+    },
+    "0646a7e2-8aae-4ab2-91f4-dfbacd38c119": {
+        "path": "cfg/piece/733e68e2-220c-4e4a-944a-75b568ebde0b/timeline.json",
+        "type": "piece"
+    },
+    "ed87abe9-fe30-477c-b917-45eda2ba1e86": {
+        "path": "cfg/piece/733e68e2-220c-4e4a-944a-75b568ebde0b",
+        "type": "folder"
+    },
+    "e0fb77a0-0676-4186-940b-f15ccc62c6b6": {
+        "path": "res/image/item/A.png",
+        "type": "image"
+    },
+    "e12af2b0-ecd2-42fd-a56a-4e54c42da929": {
+        "path": "res/image/item/B.png",
+        "type": "image"
+    },
+    "fbb71ad6-9627-47bb-90d5-c841623389c8": {
+        "path": "template/剧情选择器/默认模板-2选项/timeline.json",
+        "type": "asset"
+    },
+    "d8276ded-72bd-458b-aaac-67a518f19ab5": {
+        "path": "template/剧情选择器/默认模板-3选项/timeline.json",
+        "type": "asset"
+    },
+    "56c46bfa-d4c9-494e-a0b9-61354f23484a": {
+        "path": "template/剧情选择器/模板-01",
+        "type": "template"
+    },
+    "88e9928c-e7eb-44e8-8d11-c917b8933131": {
+        "path": "template/剧情选择器/模板-01/animations.json",
+        "type": "asset"
+    },
+    "6f9ea5a3-6ee9-4440-9582-62c5061b810b": {
+        "path": "template/剧情选择器/模板-01/elements.json",
+        "type": "asset"
+    },
+    "dd2e8968-81f9-4e69-941d-88ee86e53dab": {
+        "path": "template/剧情选择器/模板-01/events.json",
+        "type": "asset"
+    },
+    "54587569-a795-4f09-a67e-24c4319bbdc0": {
+        "path": "template/剧情选择器/模板-01/timeline.json",
+        "type": "asset"
+    },
+    "175edda1-1675-4a93-82bf-e266fab39b50": {
+        "path": "template/剧情选择器/模板-04",
+        "type": "template"
+    },
+    "d28a4b07-4894-49c6-b150-d00333892b61": {
+        "path": "template/剧情选择器/模板-04/animations.json",
+        "type": "asset"
+    },
+    "8492df0d-36be-4f82-8270-560efc751cae": {
+        "path": "template/剧情选择器/模板-04/elements.json",
+        "type": "asset"
+    },
+    "79a2060d-8134-4189-bb23-6ea864ec49d5": {
+        "path": "template/剧情选择器/模板-04/events.json",
+        "type": "asset"
+    },
+    "94077007-5851-43f9-a1bb-000b63fe9e6f": {
+        "path": "cfg/piece/bf89c68e-7775-495d-918b-d1d463b3fb0e/animations.json",
+        "type": "piece"
+    },
+    "c3f284c8-89d2-4b09-91e9-b8ba75c07068": {
+        "path": "cfg/piece/bf89c68e-7775-495d-918b-d1d463b3fb0e/elements.json",
+        "type": "piece"
+    },
+    "3ed6f0a0-afc2-44af-b6d9-0250476e5148": {
+        "path": "cfg/piece/bf89c68e-7775-495d-918b-d1d463b3fb0e/events.json",
+        "type": "piece"
+    },
+    "fd73fee7-b478-49de-96c1-c35a817fddfb": {
+        "path": "cfg/piece/bf89c68e-7775-495d-918b-d1d463b3fb0e/timeline.json",
+        "type": "piece"
+    },
+    "03fb58b0-4b2c-4bc7-97a8-45b0b5370003": {
+        "path": "template/剧情选择器/模板-04/timeline.json",
+        "type": "asset"
+    },
+    "41a6cb91-6051-4118-9ba7-b94deac7aa37": {
+        "path": "cfg/piece/bf89c68e-7775-495d-918b-d1d463b3fb0e",
+        "type": "folder"
+    },
+    "06e4e9b4-6e8b-4214-9465-cfe31cd57a7d": {
+        "path": "res/audio/aside/1.mp3",
+        "type": "audio",
+        "duration": 33.15
+    },
+    "46c51b58-a85a-448c-b30f-afca9987cb41": {
+        "path": "res/image/item/C.png",
+        "type": "image"
+    },
+    "c0132a43-b3c2-44b8-ab0c-c15dd62fcd0a": {
+        "path": "res/default/bagItemDetails/bg.png",
+        "type": "image"
+    },
+    "b9cff4c9-8c17-496f-aab6-fa1892315909": {
+        "path": "res/default/bagItemDetails/btnAudio.png",
+        "type": "image"
+    },
+    "1647054e-703f-439a-9784-6a5454059ddd": {
+        "path": "res/default/bagItemDetails/btnUse.png",
+        "type": "image"
+    },
+    "b802969f-b2c4-430b-95fd-5342e803a304": {
+        "path": "res/default/bagItemDetails/btnVideo.png",
+        "type": "image"
+    },
+    "78d2a00e-8b8b-4636-beae-f226f82dee32": {
+        "path": "res/default/bagItemGet/bg1.png",
+        "type": "image"
+    },
+    "f429074e-40dc-4b61-9c3c-346d3aa0103c": {
+        "path": "res/default/bagItemGet/bg2.png",
+        "type": "image"
+    },
+    "37995577-8786-44ca-ba4d-23d5e74822e3": {
+        "path": "res/default/bagItemGet/bg3.png",
+        "type": "image"
+    },
+    "7e26068c-d470-4282-9265-937eff160aba": {
+        "path": "res/default/bagItemGet/btnJump.png",
+        "type": "image"
+    },
+    "99e9c36d-bb35-4d3b-9880-8b2048424aa4": {
+        "path": "cfg/piece/a243e765-6c5e-43be-9ccd-e469d4af8844/animations.json",
+        "type": "piece"
+    },
+    "e7f9bc12-2419-45a5-bad8-959cb943e459": {
+        "path": "cfg/piece/a243e765-6c5e-43be-9ccd-e469d4af8844/elements.json",
+        "type": "piece"
+    },
+    "8ad29b5f-1fc8-4799-b248-80101cb0fd10": {
+        "path": "cfg/piece/a243e765-6c5e-43be-9ccd-e469d4af8844/events.json",
+        "type": "piece"
+    },
+    "785c3bfb-87ba-4759-b0a4-00a7752514d3": {
+        "path": "cfg/piece/a243e765-6c5e-43be-9ccd-e469d4af8844/timeline.json",
+        "type": "piece"
+    },
+    "8aaad7df-481b-4498-a3b4-b065c81ebde5": {
+        "path": "cfg/piece/a243e765-6c5e-43be-9ccd-e469d4af8844",
+        "type": "folder"
+    },
+    "b452d3b1-a88f-4b8f-94c6-bd904e5e549d": {
+        "path": "res/image/item/touming.png",
+        "type": "image"
+    },
+    "6ff652d8-fcb3-4745-9914-dcba42ae1d6c": {
+        "path": "res/image/item/button0.png",
+        "type": "image"
+    },
+    "beb7ebf4-7bf1-4dde-a432-23d4571120e5": {
+        "path": "res/image/item/button1.png",
+        "type": "image"
+    },
+    "8e1164b9-26b2-4886-92ac-d027ce2ba146": {
+        "path": "res/image/item/button2.png",
+        "type": "image"
+    },
+    "781dd540-9c1a-4f6b-8560-125f6c2010e1": {
+        "path": "res/image/item/button3.png",
+        "type": "image"
+    },
+    "eedaed67-3fbb-4a2b-be80-8c66157b469c": {
+        "path": "res/image/item/button4.png",
+        "type": "image"
+    },
+    "e1c86fa0-e3b9-4519-ad7c-3fdb0a2a792b": {
+        "path": "res/image/item/button5.png",
+        "type": "image"
+    },
+    "93f247b8-b203-4ba7-aed4-2a27153c5af9": {
+        "path": "res/image/item/list1.png",
+        "type": "image"
+    },
+    "b09c8ae1-d068-46dd-9ea3-0666ee54615f": {
+        "path": "res/image/item/end.png",
+        "type": "image"
+    },
+    "69256a02-54cc-4a21-b204-5876e1774fc5": {
+        "path": "res/image/item/choose.png",
+        "type": "image"
+    },
+    "1ae21312-533f-4c58-9858-d2e30d027f21": {
+        "path": "res/image/item/list2.png",
+        "type": "image"
+    },
+    "6c47d3d9-616b-490c-91ff-92fbccc0b9ca": {
+        "path": "res/image/item/right.png",
+        "type": "image"
+    },
+    "3e5751e2-e6ef-4eb3-9e7d-4ae084810413": {
+        "path": "res/video/plot/b.mp4",
+        "type": "video",
+        "duration": 59.29,
+        "start": 0
+    },
+    "8daf374b-1290-4aa2-bca3-4f3a5f202f2e": {
+        "path": "res/video/plot/a.mp4",
+        "type": "video",
+        "duration": 30.31,
+        "start": 0
+    },
+    "bf960883-8013-4c40-88d4-25160088ce30": {
+        "path": "res/image/item/真题-解题思路.jpg",
+        "type": "image"
+    },
+    "da6491ca-9494-43e3-809a-8e8d980ab8ef": {
+        "path": "res/image/item/tingti.jpg",
+        "type": "image"
+    },
+    "ad2ae928-771c-4f14-9222-b96b7914883f": {
+        "path": "res/audio",
+        "type": "folder"
+    },
+    "733149f2-f526-4f7a-9c1f-107143c35c72": {
+        "path": "res/audio/aside",
+        "type": "folder"
+    },
+    "a694b49c-3819-4e85-9fb3-2ff5cce9c8af": {
+        "path": "res/default",
+        "type": "folder"
+    },
+    "787cff57-12b9-4dac-9be8-ee720396e77c": {
+        "path": "res/default/bag",
+        "type": "folder"
+    },
+    "1e4d08a9-9a9a-4325-8792-7d70418ecc8d": {
+        "path": "res/default/bagItemDetails",
+        "type": "folder"
+    },
+    "13ff70cb-d771-4f86-9f8d-882ccb7b5828": {
+        "path": "res/default/bagItemGet",
+        "type": "folder"
+    },
+    "c5fb8faf-f6b2-462d-9480-c00463a582c7": {
+        "path": "res/default/font",
+        "type": "folder"
+    },
+    "55dd6cce-59a9-4448-9dbf-7e4ab3fc0e57": {
+        "path": "res/default/pwdLockBox",
+        "type": "folder"
+    },
+    "615ce8ab-2f81-4887-b05b-dc6f36480709": {
+        "path": "res/default/template",
+        "type": "folder"
+    },
+    "b5e112ce-3118-40ea-bfae-d205efbc748d": {
+        "path": "res/image",
+        "type": "folder"
+    },
+    "c41a9cdd-36e2-4571-b5a6-9092c1df81fb": {
+        "path": "res/image/bg",
+        "type": "folder"
+    },
+    "df5a6942-52a3-4025-8a1d-5f738a24bcc5": {
+        "path": "res/image/item",
+        "type": "folder"
+    },
+    "748434b3-9b13-4d75-b5ef-7a3d10796a67": {
+        "path": "res/video",
+        "type": "folder"
+    },
+    "d0200094-f6af-4418-849a-ca63eddc201d": {
+        "path": "res/video/plot",
+        "type": "folder"
+    },
+    "fcd923bf-ab2b-4a2a-87cd-0cdc647ba006": {
+        "path": "res/image/bg/start.jpg",
+        "type": "image"
+    },
+    "95e36348-5f1c-4d5a-b5fb-2bf959597b1e": {
+        "path": "res/image/bg/kuang.png",
+        "type": "image"
+    },
+    "60227ba7-0dee-404a-b56b-dede8ccaa26a": {
+        "path": "res/image/bg/start2.jpg",
+        "type": "image"
+    },
+    "c373fd67-baf2-43c8-a9ae-fb606c45a4c4": {
+        "path": "res/image/bg/tou2.png",
+        "type": "image"
+    },
+    "0e343c07-3a5f-4274-a3e9-a4c9abe93ccf": {
+        "path": "cfg/piece/a2844b8a-2061-4c1e-9eba-28c63d18db67/animations.json",
+        "type": "piece"
+    },
+    "391363d6-a28e-4a91-95a0-f2a6c9368506": {
+        "path": "cfg/piece/a2844b8a-2061-4c1e-9eba-28c63d18db67/elements.json",
+        "type": "piece"
+    },
+    "b647a5b4-8d73-414b-bb05-f158211d7af9": {
+        "path": "cfg/piece/a2844b8a-2061-4c1e-9eba-28c63d18db67/events.json",
+        "type": "piece"
+    },
+    "5969ab80-63a1-4481-bdec-2df4afc62b50": {
+        "path": "cfg/piece/a2844b8a-2061-4c1e-9eba-28c63d18db67/timeline.json",
+        "type": "piece"
+    },
+    "2ce53319-3cb4-4a2d-bd52-b53d15f65312": {
+        "path": "cfg/bag/itemList.json",
+        "type": "config"
+    },
+    "2938b3c6-36ea-4b66-939c-b79a83c1f937": {
+        "path": "cfg/bag/itemDetails.json",
+        "type": "config"
+    },
+    "ccd313f9-17d7-4938-af6a-1d2ba685be98": {
+        "path": "cfg/bag/getItems1.json",
+        "type": "config"
+    },
+    "126e0542-0794-4173-90ff-e96509ae8e74": {
+        "path": "cfg/bag/getItems2.json",
+        "type": "config"
+    },
+    "6df7d649-d86c-4163-b9c8-21713a283c85": {
+        "path": "cfg/bag/getItems3.json",
+        "type": "config"
+    },
+    "762088fd-7738-4ab1-b85a-34bad2da3437": {
+        "path": "res/audio/bg",
+        "type": "folder"
+    },
+    "ea69d0c3-38be-4cba-87e1-a8b33b79cc9f": {
+        "path": "res/audio/effect",
+        "type": "folder"
+    },
+    "9dcf8c94-14c3-437e-b139-f13b8c5d58d3": {
+        "path": "res/image/draw",
+        "type": "folder"
+    },
+    "27a6251e-7946-4177-b61d-a81085d5c1d1": {
+        "path": "res/image/head",
+        "type": "folder"
+    },
+    "fc0d4638-7d4c-435e-8f85-dd6ee3e54f6b": {
+        "path": "res/text",
+        "type": "folder"
+    },
+    "34351547-89a7-40c6-9924-3bc273357a09": {
+        "path": "res/text/bg",
+        "type": "folder"
+    },
+    "d016413f-960d-45b4-b3e3-78a123e24f1f": {
+        "path": "res/text/horizontal",
+        "type": "folder"
+    },
+    "cb5b2ce0-fae7-4d7a-8139-81034d2fb89f": {
+        "path": "res/text/text",
+        "type": "folder"
+    },
+    "2daa32ad-b708-4306-a241-8dbd0f2ef274": {
+        "path": "res/text/vertical",
+        "type": "folder"
+    },
+    "c1dec048-a198-4fa1-ae07-40360322a0c6": {
+        "path": "res/ui",
+        "type": "folder"
+    },
+    "924eef22-e962-416f-bc12-9376f2f7412b": {
+        "path": "res/ui/plot_jump",
+        "type": "folder"
+    },
+    "1035b344-ce55-4bb4-bd22-4a431eb15a6f": {
+        "path": "res/ui/plot_select",
+        "type": "folder"
+    },
+    "dba28eb0-8eb2-4f1e-b03b-1053ce811d34": {
+        "path": "res/ui/quick_talk",
+        "type": "folder"
+    },
+    "9d7c054a-6f28-4685-85f3-71773c601f0f": {
+        "path": "res/ui/stop_global_music",
+        "type": "folder"
+    }
+}

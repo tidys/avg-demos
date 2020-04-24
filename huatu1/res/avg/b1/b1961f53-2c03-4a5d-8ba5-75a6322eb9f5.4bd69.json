@@ -1,0 +1,142 @@
+[
+    {
+        "id": "26da7cd6-2797-4a26-a058-75c5471edae7",
+        "type": "plot_chapter",
+        "fold": false,
+        "root": false,
+        "name": "课题",
+        "children": [
+            {
+                "id": "6e0694fe-2847-48a5-b45e-92dfe3ed3b1e",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "题列表",
+                "children": [],
+                "next": null,
+                "piece": "cb822035-abae-4380-a8fa-7c734ab8b5a5",
+                "end": false,
+                "skip": "forbid"
+            },
+            {
+                "id": "6aed8703-bfbf-41a6-8126-f67f01282513",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "题列表2",
+                "children": [],
+                "next": null,
+                "piece": "94bb9a9d-9b61-4847-89b1-6903ef6832b2",
+                "end": true,
+                "skip": "forbid"
+            },
+            {
+                "id": "68254f39-a13c-45af-8e68-11972f681e35",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "真题视频-第一题",
+                "children": [],
+                "next": null,
+                "piece": "2483c9e1-8050-431a-b2e1-c75d44d42f4e",
+                "end": false,
+                "skip": "forbid"
+            },
+            {
+                "id": "849f6827-7886-4523-a133-db57d5e1458e",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "真题精讲-第一题",
+                "children": [],
+                "next": null,
+                "piece": "84db9836-83e3-498d-be03-5bcbc81e75d4",
+                "end": false,
+                "skip": "forbid"
+            },
+            {
+                "id": "919f01ea-748a-4049-8359-3efff27198e5",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "解题思路跳转页",
+                "children": [],
+                "next": null,
+                "piece": "5657e7c1-e547-41d4-9420-c0247797d5c2",
+                "end": false,
+                "skip": "forbid"
+            }
+        ],
+        "next": null
+    },
+    {
+        "id": "455bb45d-c6be-47ad-aca2-b0059b2f273b",
+        "type": "plot_chapter",
+        "fold": false,
+        "root": false,
+        "name": "答题1",
+        "children": [
+            {
+                "id": "899b3cae-c9ce-44c4-9234-a2fe1f3bee50",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "A",
+                "children": [],
+                "next": null,
+                "piece": "0d3e0b84-6c2c-4cc8-bbbe-072e7d463076",
+                "end": false,
+                "skip": "forbid"
+            },
+            {
+                "id": "d0b0d06f-4158-44e2-a785-f3a6d1781d1c",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "B",
+                "children": [],
+                "next": null,
+                "piece": "b4980306-cbcf-4a74-830a-c0ed3cb613ac",
+                "end": false,
+                "skip": "forbid"
+            },
+            {
+                "id": "e3a27c26-8663-4456-8e1f-c5b80bb7a2ae",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "C",
+                "children": [],
+                "next": null,
+                "piece": "1d3a682b-1e77-4c96-a485-50b158e57135",
+                "end": false,
+                "skip": "forbid"
+            },
+            {
+                "id": "5bc3be4f-ab7e-461c-bb2e-dab9b5956214",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "解题思路",
+                "children": [],
+                "next": null,
+                "piece": "75a53dd4-0593-42aa-8766-1663df70a513",
+                "end": false,
+                "skip": "forbid"
+            },
+            {
+                "id": "181462c9-3453-4b55-b503-111b46b60611",
+                "type": "plot_content",
+                "fold": false,
+                "root": false,
+                "name": "小结",
+                "children": [],
+                "next": null,
+                "piece": "d36eff7d-cd78-4a63-bd7f-654babfeef52",
+                "end": false,
+                "skip": "forbid"
+            }
+        ],
+        "next": null
+    }
+]

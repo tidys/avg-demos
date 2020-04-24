@@ -1,0 +1,96 @@
+[
+    {
+        "id": "ef419f03-ceb2-4018-8468-faf897660ede",
+        "templateID": null,
+        "name": "封面",
+        "type": "ui-cover",
+        "lockPos": true,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "style": "custom",
+        "bg": {
+            "name": "背景",
+            "texture": "fcd923bf-ab2b-4a2a-87cd-0cdc647ba006",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "buttons": {
+            "normalTexture": "95e36348-5f1c-4d5a-b5fb-2bf959597b1e",
+            "pressTexture": "781dd540-9c1a-4f6b-8560-125f6c2010e1",
+            "position": {
+                "x": -407,
+                "y": -159,
+                "z": 0
+            },
+            "font": {
+                "size": 20,
+                "color": "#333333",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            },
+            "items": [
+                {
+                    "text": "开始",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "size": {
+                        "width": 155,
+                        "height": 44
+                    },
+                    "type": "Cover_Began"
+                },
+                {
+                    "text": "继续",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "size": {
+                        "width": 155,
+                        "height": 44
+                    },
+                    "type": "Cover_Continue"
+                },
+                {
+                    "text": "设置",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "size": {
+                        "width": 155,
+                        "height": 44
+                    },
+                    "type": "Cover_Set"
+                }
+            ]
+        }
+    }
+]

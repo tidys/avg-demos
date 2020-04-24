@@ -1,0 +1,174 @@
+[
+    {
+        "id": "20c772b6-53d1-4dd7-b561-4f25e0204398",
+        "templateID": null,
+        "name": "物品详情",
+        "type": "avg-bag-item-details",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 442,
+            "height": 528
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "popUp": {
+            "type": "fade-in",
+            "direction": "left",
+            "time": 0.3
+        },
+        "takeBack": {
+            "type": "fade-out",
+            "direction": "left",
+            "time": 0.3
+        },
+        "bg": {
+            "id": "3848aa65-a00e-4177-9c01-7e6a334356d3",
+            "active": true,
+            "comp": "avg-image",
+            "type": "bg",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 442,
+                "height": 528
+            },
+            "texture": "c0132a43-b3c2-44b8-ab0c-c15dd62fcd0a"
+        },
+        "icon": {
+            "id": "f43c8099-94e2-4c67-95e9-cc016a39b091",
+            "active": true,
+            "comp": "avg-image",
+            "type": "icon",
+            "position": {
+                "x": 0,
+                "y": 112
+            },
+            "size": {
+                "width": 318,
+                "height": 205
+            },
+            "texture": null
+        },
+        "itemName": {
+            "id": "74631820-a635-4472-a658-62ebc8fe9b0b",
+            "active": true,
+            "comp": "avg-label",
+            "type": "name",
+            "position": {
+                "x": 0,
+                "y": -5
+            },
+            "size": {
+                "width": 100,
+                "height": 20
+            },
+            "string": "",
+            "font": {
+                "size": 20,
+                "color": "#ffffff",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            }
+        },
+        "itemDesc": {
+            "id": "ae114cb4-1434-4281-acc4-70667f89d407",
+            "active": true,
+            "comp": "avg-label",
+            "type": "desc",
+            "position": {
+                "x": 0,
+                "y": -95
+            },
+            "size": {
+                "width": 317,
+                "height": 96
+            },
+            "string": "",
+            "font": {
+                "size": 20,
+                "color": "#ffffff",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            }
+        },
+        "itemNum": {
+            "id": "955a22d4-0b7f-4e39-9298-69cb58a28833",
+            "active": true,
+            "comp": "avg-item-num-label",
+            "type": "num",
+            "position": {
+                "x": 140,
+                "y": 196
+            },
+            "size": {
+                "width": 30,
+                "height": 30
+            },
+            "string": "",
+            "font": {
+                "size": 20,
+                "color": "#ffffff",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            },
+            "bgColor": "#eebf39"
+        },
+        "playBtn": {
+            "id": "51cf10a8-ff75-4379-81ef-20e1a9701c31",
+            "active": true,
+            "comp": "avg-button",
+            "type": "play-btn",
+            "position": {
+                "x": 0,
+                "y": 114
+            },
+            "size": {
+                "width": 100,
+                "height": 100
+            },
+            "textureNormal": "b802969f-b2c4-430b-95fd-5342e803a304",
+            "texturePress": "b802969f-b2c4-430b-95fd-5342e803a304"
+        },
+        "useBtn": {
+            "id": "12cbef01-b462-4722-9fb0-b3e3b0f3eead",
+            "active": true,
+            "comp": "avg-button",
+            "type": "use-btn",
+            "position": {
+                "x": 0,
+                "y": -196
+            },
+            "size": {
+                "width": 184,
+                "height": 47
+            },
+            "textureNormal": "1647054e-703f-439a-9784-6a5454059ddd",
+            "texturePress": "1647054e-703f-439a-9784-6a5454059ddd"
+        }
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": "14482c1f-4bff-4755-a759-d1ece148dd1d",
+        "templateID": null,
+        "name": "背包按钮",
+        "type": "avg-bag-btn",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 0,
+            "height": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "textureNormal": "7765d11f-9a69-4420-baf1-b72435a5a39d",
+        "texturePress": "7765d11f-9a69-4420-baf1-b72435a5a39d"
+    },
+    {
+        "id": "63c3c03b-b880-4422-99f1-50a3c2cfb857",
+        "templateID": null,
+        "name": "菜单按钮",
+        "type": "avg-menu-btn",
+        "lockPos": false,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 0,
+            "height": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "textureNormal": "5bd433c6-ab0c-443f-9374-e19d68c08f00",
+        "texturePress": "5bd433c6-ab0c-443f-9374-e19d68c08f00"
+    }
+]

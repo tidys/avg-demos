@@ -1,0 +1,105 @@
+{
+    "desc": "快速入口的配置",
+    "list": [
+        {
+            "name": "基础UI",
+            "enabled": true,
+            "key": "ui",
+            "list": [
+                {
+                    "id": "41f5a834-fc85-4aea-ada0-5a70d83833c9",
+                    "type": "ui-default",
+                    "sub": "cover",
+                    "name": "封面",
+                    "enabled": true,
+                    "cfg": "6762f7c0-0ce5-4b26-a840-a7204a85e3c6"
+                },
+                {
+                    "id": "8881681d-7550-425c-a862-e8431368cf95",
+                    "type": "ui-default",
+                    "sub": "file-mgr",
+                    "name": "档案管理",
+                    "enabled": true,
+                    "cfg": "cea00c35-6d50-488d-af7b-80a7951db101"
+                },
+                {
+                    "id": "c5b01765-a626-455a-8767-f631239b161c",
+                    "type": "ui-default",
+                    "sub": "env",
+                    "name": "环境设置",
+                    "enabled": false,
+                    "cfg": "6687c830-2efe-4922-8a7d-4a8bb1e82a01"
+                },
+                {
+                    "id": "ea2b41f6-9ca0-4a3c-a1d6-aa955d60cf19",
+                    "type": "ui-default",
+                    "sub": "menu",
+                    "name": "菜单",
+                    "enabled": true,
+                    "cfg": "0dd627c2-8baf-4f15-88ac-9a4198489579"
+                },
+                {
+                    "id": "f540baef-e73e-4995-98f7-c1611fc92f75",
+                    "type": "ui-default",
+                    "sub": "entry-set",
+                    "name": "入口设置",
+                    "enabled": true,
+                    "cfg": "adb9d2da-52c5-468e-b420-474550a5c8b2"
+                }
+            ]
+        },
+        {
+            "name": "高级UI",
+            "key": "ui-advanced-root",
+            "enabled": true,
+            "list": [
+                {
+                    "name": "背包",
+                    "key": "bag",
+                    "list": [
+                        {
+                            "id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+                            "type": "ui-advanced",
+                            "sub": "bagItemList",
+                            "name": "物品列表",
+                            "enabled": true,
+                            "cfg": "2ce53319-3cb4-4a2d-bd52-b53d15f65312"
+                        },
+                        {
+                            "id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+                            "type": "ui-advanced",
+                            "sub": "bagItemDetails",
+                            "name": "物品详情",
+                            "enabled": true,
+                            "cfg": "2938b3c6-36ea-4b66-939c-b79a83c1f937"
+                        },
+                        {
+                            "id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+                            "type": "ui-advanced",
+                            "sub": "bagGetItems",
+                            "name": "获得物品(1个)",
+                            "enabled": true,
+                            "cfg": "ccd313f9-17d7-4938-af6a-1d2ba685be98"
+                        },
+                        {
+                            "id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+                            "type": "ui-advanced",
+                            "sub": "bagGetItems",
+                            "name": "获得物品(2个)",
+                            "enabled": true,
+                            "cfg": "126e0542-0794-4173-90ff-e96509ae8e74"
+                        },
+                        {
+                            "id": "03952700-417b-4616-8da4-c5d9d5ed31ab",
+                            "type": "ui-advanced",
+                            "sub": "bagGetItems",
+                            "name": "获得物品(3个)",
+                            "enabled": true,
+                            "cfg": "6df7d649-d86c-4163-b9c8-21713a283c85"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

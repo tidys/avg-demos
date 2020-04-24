@@ -1,0 +1,13 @@
+{
+    "isTest": false,
+    "startPiece": null,
+    "mode": "horizontal",
+    "type": "modern",
+    "size": {
+        "width": 1280,
+        "height": 720
+    },
+    "isPublish": true,
+    "projectID": "06c7afdc-e2d4-452d-9645-a19a4f634416",
+    "version": "0.4.1-alpha4"
+}

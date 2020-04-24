@@ -1,0 +1,119 @@
+[
+    {
+        "id": "e34a4c0c-824e-4423-ae7d-e493fbab9464",
+        "templateID": null,
+        "name": "档案管理",
+        "type": "ui-file-mgr",
+        "lockPos": true,
+        "lockSizeRatio": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "scale": {
+            "x": 1,
+            "y": 1
+        },
+        "active": true,
+        "opacity": 255,
+        "color": "#ffffff",
+        "zIndex": 1,
+        "style": "custom",
+        "bg": {
+            "name": "背景",
+            "texture": "fcd183b7-5e0c-4203-8f15-2c619df86c54",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "backBtnTexture": "80683f67-fb22-4b5f-a157-e86f58fe3518",
+        "lists": {
+            "normalTexture": "3dbaa718-5e90-477d-ba66-e98b509c8887",
+            "pressTexture": "3dbaa718-5e90-477d-ba66-e98b509c8887",
+            "iconTexture": "d9a576f1-8f3b-484f-8758-989abc3132a0",
+            "iconSize": {
+                "width": 186,
+                "height": 105
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "font": {
+                "size": 16,
+                "color": "#333333",
+                "family": "arial",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "align": "center",
+                "line": 1
+            },
+            "items": [
+                {
+                    "name": "存档1",
+                    "time": "2019/01/01",
+                    "size": {
+                        "width": 210,
+                        "height": 172
+                    },
+                    "type": "FileMgr_Item"
+                },
+                {
+                    "name": "存档2",
+                    "time": "2019/01/01",
+                    "size": {
+                        "width": 210,
+                        "height": 172
+                    },
+                    "type": "FileMgr_Item"
+                },
+                {
+                    "name": "存档3",
+                    "time": "2019/01/01",
+                    "size": {
+                        "width": 210,
+                        "height": 172
+                    },
+                    "type": "FileMgr_Item"
+                },
+                {
+                    "name": "存档4",
+                    "time": "2019/01/01",
+                    "size": {
+                        "width": 210,
+                        "height": 172
+                    },
+                    "type": "FileMgr_Item"
+                },
+                {
+                    "name": "存档5",
+                    "time": "2019/01/01",
+                    "size": {
+                        "width": 210,
+                        "height": 172
+                    },
+                    "type": "FileMgr_Item"
+                },
+                {
+                    "name": "存档6",
+                    "time": "2019/01/01",
+                    "size": {
+                        "width": 210,
+                        "height": 172
+                    },
+                    "type": "FileMgr_Item"
+                }
+            ]
+        }
+    }
+]

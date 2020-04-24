@@ -1,0 +1,28 @@
+[
+    {
+        "name": "人物",
+        "type": "role",
+        "children": [
+            {
+                "name": "默认分类",
+                "type": "role",
+                "fold": true,
+                "id": "798a8c4c-403d-4657-a721-a2afca3f66ba",
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "场景",
+        "type": "scene",
+        "children": [
+            {
+                "name": "默认分类",
+                "type": "scene",
+                "fold": true,
+                "id": "84f8826b-201b-4b95-b1bf-6138604994e6",
+                "children": []
+            }
+        ]
+    }
+]
